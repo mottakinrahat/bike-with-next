@@ -1,0 +1,56 @@
+[
+    {
+      "bikeImage": "https://i.ibb.co/tYXHmLz/Suzuki-Gixxer-SF-Fi-ABS-Silver.jpg",
+      "bikeName": "Suzuki-Gixxer-SF-Fi-ABS",
+      "bikePrice": 2499.99,
+      "bikeDescription": "The Suzuki-Gixxer-SF-Fi-ABS is a high-performance mountain bike designed for off-road adventures. It features a lightweight aluminum frame, 29-inch wheels, and a responsive suspension system. With its 12-speed drivetrain and hydraulic disc brakes, this bike offers exceptional control and speed on any trail. Whether you're tackling steep climbs or descending rugged terrain, the Mountain X1 delivers the performance and durability you need."
+    },
+    {
+      "bikeImage": "https://i.ibb.co/PjwjPvK/Suzuki-gixxer-carb-disc-dual-tone-2023.jpg",
+      "bikeName": "Suzuki-gixxer-dual-tone",
+      "bikePrice": 1599.99,
+      "bikeDescription": "The Suzuki-gixxer-dual-tone is a sleek and aerodynamic road bike built for speed. Its carbon fiber frame and lightweight components ensure a smooth and efficient ride. With its 22-speed Shimano drivetrain and high-performance brakes, this bike offers precise shifting and reliable stopping power. Whether you're racing against the clock or enjoying a long-distance ride, the Suzuki-gixxer-dual-tone is designed to deliver top performance."
+    },
+    {
+      "bikeImage": "https://i.ibb.co/NV9h4RQ/Suzuki-Gixxer-Classic-Matt-Blue.jpg",
+      "bikeName": "Gixxer-Classic-Matt",
+      "bikePrice": 1899.99,
+      "bikeDescription": "The Gixxer-Classic-Matt is a stylish and comfortable electric bike perfect for urban commuting. It features a step-through frame design for easy mounting and dismounting. With its powerful electric motor and long-lasting battery, you can effortlessly ride through city streets or hilly terrains. The Gixxer-Classic-Matt also comes equipped with fenders, lights, and a rear rack for added convenience and utility."
+    },
+    {
+      "bikeImage": "https://i.ibb.co/HNMZph5/Suzuki-Gixxer-Classic-Plus.jpg",
+      "bikeName": "Suzuki-Gixxer-Classic-Plus",
+      "bikePrice": 2199.99,
+      "bikeDescription": "The Suzuki-Gixxer-Classic-Plus is a versatile adventure bike that excels on both paved and unpaved roads. Its durable steel frame and wide tires provide stability and traction on rough surfaces. With its 18-speed drivetrain and mechanical disc brakes, this bike offers reliable performance and control in any terrain. Whether you're exploring gravel paths or embarking on long-distance tours, the Suzuki-Gixxer-Classic-Plus is designed to handle it all."
+    },
+    {
+      "bikeImage": "https://i.ibb.co/hYygrKk/Suzuki-Gixxer-SF-Matt-Plus.jpg",
+      "bikeName": "Suzuki-Gixxer-SF-Matt",
+      "bikePrice": 899.99,
+      "bikeDescription": "The Suzuki-Gixxer-SF-Matt is a compact and portable bike designed for convenient commuting. Its lightweight aluminum frame allows for easy folding and storage in tight spaces. With its 7-speed drivetrain and adjustable seat height, this bike offers a comfortable and customizable riding experience. Whether you're navigating busy city streets or hopping on public transportation, the Suzuki-Gixxer-SF-Matt is a practical and efficient choice."
+    },
+    {
+      "bikeImage": "https://i.ibb.co/3swC17J/Suzuki-Bandit-Dual-Channel-ABS-grey.jpg",
+      "bikeName": "Suzuki-Bandit-Dual-Channel",
+      "bikePrice": 349.99,
+      "bikeDescription": "The Suzuki-Bandit-Dual-Channel is a durable and fun bike designed for young adventurers. It features a sturdy steel frame and 20-inch wheels suitable for children. With its single-speed drivetrain and coaster brakes, this bike offers simplicity and easy operation. Whether your child is exploring neighborhood trails or riding around the park, the Suzuki-Bandit-Dual-Channel provides a safe and enjoyable biking experience."
+    },
+    {
+      "bikeImage": "https://i.ibb.co/pw3g033/New-Suzuki-Gixxer-155-Fi-ABS.jpg",
+      "bikeName": "Suzuki-Gixxer-155-Fi-ABS",
+      "bikePrice": 1299.99,
+      "bikeDescription": "The Suzuki-Gixxer-155-Fi-ABS is a versatile bike that combines the best features of a road bike and a mountain bike. Its lightweight frame and medium-width tires provide a balance of speed and stability. With its 24-speed drivetrain and hydraulic disc brakes, this bike offers a smooth and controlled ride. Whether you're commuting to work or going on weekend adventures, the Suzuki-Gixxer-155-Fi-ABS is designed to handle various terrains with ease."
+    },
+    {
+      "bikeImage": "https://i.ibb.co/tYXHmLz/Suzuki-Gixxer-SF-Fi-ABS-Silver.jpg",
+      "bikeName": "Suzuki-Gixxer-SF-Fi",
+      "bikePrice": 499.99,
+      "bikeDescription": "The Suzuki-Gixxer-SF-Fi is a rugged and agile bike built for performing tricks and stunts. It features a durable steel frame and 20-inch wheels designed to withstand impacts and jumps. With its single-speed drivetrain and front and rear caliper brakes, this bike offers quick acceleration and precise stopping power. Whether you're hitting the skatepark or riding street ramps, the Suzuki-Gixxer-SF-Fi is the perfect choice for aspiring riders."
+    },
+    {
+      "bikeImage": "https://i.ibb.co/9Y0BYbk/Suzuki-GSX-R-Dual-ABS-Red.jpg",
+      "bikeName": "Suzuki-GSX-R-Dual-ABS",
+      "bikePrice": 2999.99,
+      "bikeDescription": "The Suzuki-GSX-R-Dual-ABS is a long-distance touring bike designed for epic journeys. Its robust steel frame and wide tires provide stability and comfort on extended rides. With its 30-speed drivetrain and hydraulic disc brakes, this bike offers a wide gear range and reliable stopping power. Whether you're crossing continents or exploring remote trails, the Suzuki-GSX-R-Dual-ABS is built to carry you and your gear with confidence."
+    }
+  ]
